@@ -1,4 +1,6 @@
-# allsky-indi
+# allsky-indi - https://github.com/aaronwmorris/indi-allsky
+
+Hard.Warez:
 
 1. RPI 4B
 2. RPI HQCAM C/CS
